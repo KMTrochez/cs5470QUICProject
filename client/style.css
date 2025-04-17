@@ -1,0 +1,10 @@
+body {
+    font-family: Arial;
+    padding: 20px;
+}
+#chat-box {
+    border: 1px solid #333;
+    padding: 10px;
+    height: 300px;
+    overflow-y: scroll;
+}
